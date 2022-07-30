@@ -19,4 +19,7 @@
 
 CRUD ----  Create , Read , Update , Delete
 
+
+DESC <TABLE_NAME>   -- TO LOOK ALL THE TYPE
+
 Diff in RDBMS and SQL
