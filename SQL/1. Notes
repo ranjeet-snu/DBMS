@@ -21,5 +21,6 @@ CRUD ----  Create , Read , Update , Delete
 
 
 DESC <TABLE_NAME>   -- TO LOOK ALL THE TYPE
+SET SQL_SAFE_UPDATES=0;
 
 Diff in RDBMS and SQL
