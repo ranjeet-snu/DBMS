@@ -1,3 +1,17 @@
+>> using sql through MYSQL installer community  (link : https://dev.mysql.com/downloads/installer/      large size download)
+>> We can use in GLI as wll as  CUI;
+>> FOR CLI
+   CD >> Program Files\MySQ\ MySQL Server 8.0 \ bin \
+   then type: mysql -uroot -p
+   the >> Enter Password
+   
+ >> FOR GUI
+    1. Go too Workbench 
+    2. Create New Query Tab
+    3. Then Coonect to Database
+
+
+
 CRUD ----  Create , Read , Update , Delete
 
 Diff in RDBMS and SQL
