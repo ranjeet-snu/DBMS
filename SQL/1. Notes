@@ -5,6 +5,11 @@
    then type: mysql -uroot -p
    the >> Enter Password
    
+   You can check here the database by : SHOW DATABASES;
+   To use any database type >> use <database_name>;
+   to show tables >> SHOW TABLES;
+   TO SHOW CONTENT >> SELECT * FROM <TABLE_NAME>;
+   
  >> FOR GUI
     1. Go too Workbench 
     2. Create New Query Tab
